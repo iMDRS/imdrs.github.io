@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 
 import { EtudiantRoutingModule } from './etudiant-routing.module';
 import { EtudiantComponent } from './etudiant.component';
-import { EtudiantComponent } from './etudiant.component';
+
 
 @NgModule({
   imports: [
